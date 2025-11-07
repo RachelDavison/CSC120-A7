@@ -20,7 +20,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **YES** 1 pt: The `House` class implements the requested additional methods (`moveIn(...)`, `moveOut(...)`, and `isResident(...)`)
 
-### Level 2: `Library.java` (3 pts)
+### Level 2: `Library.java` (3 pts) 
 
 **YES** 1 pt: The `Library` class includes the requested attributes
 
